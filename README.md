@@ -24,7 +24,7 @@ pip install ttkthemes
 ```
 
 ----------------------------------
-https://fatihonder.org.tr/internet-speedtest-app-yapimi/
+https://fatihonder.org.tr/python-ile-pardus-linux-alias-yonetim-uygulamasi/
 
 # Installation
 Install aliasGUI-added
