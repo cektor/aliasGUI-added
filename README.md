@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # aliasGUI-added
 A Handy Python GUI Application for Customizing Terminal Scripts for Linux. Easy to Use with Visual Interface
 
